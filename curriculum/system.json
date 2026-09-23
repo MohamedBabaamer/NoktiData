@@ -31,7 +31,7 @@
               "rule": "td_tp_exam"
             },
             {
-              "name": "Structure Machine 1",
+              "name": "Computer Architecture 1",
               "coef": 3,
               "cred": 5,
               "rule": "td_exam"
@@ -109,7 +109,7 @@
               "rule": "td_tp_exam"
             },
             {
-              "name": "Structure Machine 2",
+              "name": "Computer Architecture 2",
               "coef": 3,
               "cred": 5,
               "rule": "td_exam"
